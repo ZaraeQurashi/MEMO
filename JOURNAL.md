@@ -14,17 +14,17 @@
 
 ## Contents
 
-1. [2026-11-01: # MEMO — Day 1: Building the Schematic and PCB](#2026-11-01-memo-day-1-building-the-schematic-and-pcb)
+1. [2026-11-01: # MEMO — Building the Schematic and PCB](#2026-11-01-memo-building-the-schematic-and-pcb)
 2. [2026-11-01: # MEMO — Firmware Development Journal](#2026-11-01-memo-firmware-development-journal)
 3. [2026-11-01: # MEMO — Day 3 Journal: BOM, GitHub README & File Organization](#2026-11-01-memo-day-3-journal-bom-github-readme-file-organiz)
 
 ## Design
 
-### 2026-11-01: # MEMO — Day 1: Building the Schematic and PCB
+### 2026-11-01: # MEMO — Building the Schematic and PCB
 
 **5h**
 
-# MEMO — Day 1: Building the Schematic and PCB
+# MEMO — Building the Schematic and PCB
 
 **October 28+29, 2026**
 
