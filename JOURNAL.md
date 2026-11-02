@@ -190,11 +190,11 @@ I then added the RGB LED to provide a visual indication of each reminder's statu
 
 The LED uses the following colour system:
 
-Colour : Meaning
-Green :More than 24 hours remaining
-Blue : Less than 24 hours remaining
-Red :Reminder is overdue
-Off : Reminder is completed
+Colour: Meaning
+- Green :More than 24 hours remaining
+- Blue : Less than 24 hours remaining
+- Red :Reminder is overdue
+- Off : Reminder is completed
 
 I also programmed the LED to display blue while the device is waiting for a valid time connection. This gives the user another way to understand what the device is doing without having to read the entire OLED display.
 
@@ -210,7 +210,7 @@ Each button uses `INPUT_PULLUP`, meaning that the microcontroller normally reads
 
 I assigned the buttons the following functions:
 
-- UP:* Moves to the previous reminder.
+- UP: Moves to the previous reminder.
 - DOWN: Moves to the next reminder.
 - SELECT: Marks the selected reminder as completed or changes it back to incomplete.
 
